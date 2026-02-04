@@ -1,3 +1,5 @@
+Create Schema 1pgm 
+Use 1pgm
 CREATE TABLE Students(
 StudentID INT PRIMARY KEY, 
 FirstName

@@ -1,3 +1,5 @@
+CREATE Schema 8pgm
+Use 8pgm
 CREATE TABLE Employ(
 EmployeeID INT PRIMARY KEY,
 EmployeeName VARCHAR(100),
